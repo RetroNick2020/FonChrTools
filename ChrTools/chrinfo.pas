@@ -1,7 +1,8 @@
-{ ChrInfo - Displays information about CHR Vector fonts
-  Displays Font Name,Copyright,Width,Height, and various other bits of information
+{  ChrInfo - Displays information about CHR Vector fonts
+   Displays Font Name,Copyright,Width,Height, and various other 
+   bits of information
   
-  By RetroNick - Initial Code Released Dec 19 - 2025
+   By RetroNick - Initial Code Released Dec 19 - 2025
 }
 program CHRInfo;
 
